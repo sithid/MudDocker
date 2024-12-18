@@ -3,7 +3,7 @@
 # With additions from Tony.
 
 # Set the port number.
-set port = 9009
+set port = 4000
 if ( "$1" != "" ) set port="$1"
 
 # Change to area directory.
